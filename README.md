@@ -25,7 +25,7 @@ Welcome to NexInvent, your next-generation inventory and sales management soluti
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/Tokise/StockManagementProject.git
+   git clone https://github.com/Tokise/StockProject.git
    ```
 
 2. **Database Setup**
