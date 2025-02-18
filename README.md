@@ -25,7 +25,7 @@ Welcome to NexInvent, your next-generation inventory and sales management soluti
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/StockManagementProject.git
+   git clone https://github.com/Tokise/StockManagementProject.git
    ```
 
 2. **Database Setup**
@@ -163,4 +163,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - SweetAlert2
 
 ---
-Made with ❤️ by Your Team 
+Made with ❤️ by BSIT Students
